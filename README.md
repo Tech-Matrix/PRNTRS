@@ -17,7 +17,9 @@
 
 
 #### Client Pages
-![Screenshot (202)](https://user-images.githubusercontent.com/73497800/129595244-675b665e-134c-4150-99c1-0174f728bce7.png)  &nbsp;&nbsp;&nbsp;  ![Screenshot (201)](https://user-images.githubusercontent.com/73497800/129595346-76ea9a04-0b1f-480d-a428-dc04d6063a97.png)
+![Screenshot (202)](https://user-images.githubusercontent.com/73497800/129595244-675b665e-134c-4150-99c1-0174f728bce7.png)  
+
+![Screenshot (201)](https://user-images.githubusercontent.com/73497800/129595346-76ea9a04-0b1f-480d-a428-dc04d6063a97.png)
 
 
 
