@@ -20,10 +20,13 @@
 ![Screenshot (202)](https://user-images.githubusercontent.com/73497800/129595244-675b665e-134c-4150-99c1-0174f728bce7.png)  
 
 ![Screenshot (201)](https://user-images.githubusercontent.com/73497800/129595346-76ea9a04-0b1f-480d-a428-dc04d6063a97.png)
+<br />
 
-
-
-
-
-#### **Viewing the design files of the website:** 
+### **Viewing the design files of the website:** 
 To view the .fig webpage design files, simply download the .fig file and import into Figma!
+<br />
+
+### Our Current Tech Stack
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br />
+#### Made with 💙 by Team 6 : Icebreakers - 3 Edition
