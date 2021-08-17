@@ -1,0 +1,293 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-bar{
+position: absolute;
+width: 100%;
+height: 7%;
+left: 0;
+top: 0;
+background: #D84242;
+}
+.nav-head{
+  position: absolute;
+width: 50%;
+height: 62%;
+left: 4%;
+top: 42%;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 120%;
+line-height: 20%;
+display: flex;
+align-items: flex-start;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+}
+.profile-icon{
+  display: flex;
+  position: absolute;
+  right: 1%;
+  border-color: black;
+  border-radius: 10%;
+  width: 3%;
+  height: 65%;
+  top: 20%;
+}
+.status-bar{
+  font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 100%;
+line-height: 20%;
+display: flex;
+align-items: center;
+letter-spacing: -0.015em;
+position: absolute;
+top: 12%;
+color: #000000;
+}
+.status-pend, .status-comp, .status-canc, .number{
+  display: inline-block;
+}
+.number{
+  margin-left: 40px;
+  background-color: #D84242;
+  width: 33px;
+  height: 13px;
+  position: absolute;
+  top: 33%;
+  left: 27%;
+  color: white;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.status-bar{
+  width: 100%;
+  height: 10%;
+  position: absolute;
+  top: 7%;
+  font-family: Comfortaa;
+  border: 1px solid rgba(239, 15, 15, 0.56);
+  box-sizing: border-box;
+
+}
+.status-pend, .status-comp, .status-canc{
+  margin-left: 200px;
+  font-family: Comfortaa;
+
+}
+/*
+.status-pend{
+position: absolute;
+  right: 75%;;
+   width: 400px;
+   height: 400px;
+}
+.status-comp{
+  display: flex;
+  position: absolute;
+  left: 105%;
+  width: 120%;
+}
+*/
+.pending{
+  font-family: Comfortaa;
+}
+li{
+  font-size: 14px;
+}
+h5{
+  font-size: 15px;
+}
+.pending-1{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  font-family: Comfortaa;
+}
+.b1{
+  position: absolute;
+  top: 22%;
+
+}
+.ol-1{
+  position: absolute;
+  top: 54%;
+}
+button{
+  border: 1px solid #D84242;
+  padding: 5px 10px;
+  border-radius: 12px;
+  background: #FFFFFF;
+  color: red;
+  font-family: Comfortaa;
+  font-size: 10px;
+  position: absolute;
+  left: 50%;
+  cursor: pointer;
+}
+.pending-2{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  font-family: Comfortaa;
+}
+.b2{
+  position: absolute;
+  top: 22%;
+}
+.ol-2{
+  position: absolute;
+  top: 54%;
+}
+.pending-3{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  font-family: Comfortaa;
+}
+.b3{
+  position: absolute;
+  top: 22%;
+}
+.ol-3{
+  position: absolute;
+  top: 54%;
+}
+.pending-4{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 80%;
+  left: 10%;
+  font-family: Comfortaa;
+}
+.b4{
+  position: absolute;
+  top: 22%;
+}
+.ol-4{
+  position: absolute;
+  top: 54%;
+}
+.completed-4{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  font-family: Comfortaa;
+}
+.bc4{
+  position: absolute;
+  top: 22%;
+}
+.olc-4{
+  position: absolute;
+  top: 54%;
+}
+.completed-3{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 60%;
+  left: 40%;
+  font-family: Comfortaa;
+}
+.bc3{
+  position: absolute;
+  top: 22%;
+}
+.olc-3{
+  position: absolute;
+  top: 54%;
+}
+.completed-2{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  font-family: Comfortaa;
+}
+.bc2{
+  position: absolute;
+  top: 22%;
+}
+.olc-2{
+  position: absolute;
+  top: 54%;
+}
+.completed-1{
+  width: 300px;
+  height: 100px;
+  border-radius: 20px;
+  border: 0.5px solid #E5E5E5;
+  padding: 20px 25px;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  font-family: Comfortaa;
+}
+.bc1{
+  position: absolute;
+  top: 22%;
+}
+.olc-1{
+  position: absolute;
+  top: 54%;
+}
+.canc-text{
+  color: #B9B1B1;
+  font-size: 30px;
+  font-weight: lighter;
+  position: absolute;
+  top: 50%;
+  font-family: Comfortaa;
+  left: 73%;
+}
+.canc-text-2{
+  color: #B9B1B1;
+  font-size: 30px;
+  font-weight: lighter;
+  position: absolute;
+  top: 60%;
+  font-family: Comfortaa;
+  left: 73%;
+}

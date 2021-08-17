@@ -1,0 +1,91 @@
+.signin{
+    color:red;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-top: 100px;
+    margin-left: 300px;
+    border-right: solid;
+    border-color: black;
+
+}
+.register{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left: 380px;
+    margin-top:-44px;
+    border-left: solid 1px ;
+    padding-left:6px;
+    
+}
+.welcome{
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left:300px;
+}
+.Prntrsc{
+    color:red;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    margin-left:310px;
+    margin-top:2px;
+}
+.stuff{
+    margin-left: 300px;
+    margin-top:0px;
+    position: relative;
+}
+
+.Butty{
+    background-color: red;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+    cursor:pointer;
+    margin-top:20px ;
+    margin-left:357px;
+    position:relative;
+}
+.pass{
+ margin-top: 5px;
+}
+.image{
+    height: 50%;
+    width:50%;
+    margin-left:40px;
+    margin-top: -250px;
+    float:right;
+ 
+    
+}
+.mappy{
+    margin-left: 350px;
+    margin-top: 60px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin:none ;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: teal;
+  }
+  .header{
+      margin-left: 600px;
+      color:red;
+  }
+  .vendorlist{
+      background-color: green;
+  }
+  .texty{
+      margin-left: 590px;
+  }
+  .texty2{
+    margin-left: 590px;
+
+  }
+  .Butty2{
+    margin-left: 610px;
+  }
