@@ -1,6 +1,10 @@
 # PRNTRS
 ### **PRNTRS** - A web-app, which sends a document from customer to vendor by adding print slots thereby eliminating long wait times, inefficiency and improving the safety of the customers involved.
 
+#### video: https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view
+
+#### medium blog: https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc
+
 
 #### Home Page
 ![Screenshot (203)](https://user-images.githubusercontent.com/73497800/129594127-daad5599-c13a-4d14-a9c5-a7a2e7ca7705.png)
