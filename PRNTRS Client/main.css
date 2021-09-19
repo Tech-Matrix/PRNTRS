@@ -32,7 +32,7 @@
 }
 .stuff{
     margin-left: 300px;
-    margin-top:0px;
+    margin-top:0;
     position: relative;
 }
 
@@ -67,7 +67,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    margin:none ;
+    /*margin:none ;*/
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: teal;
@@ -89,3 +89,43 @@ ul {
   .Butty2{
     margin-left: 610px;
   }
+
+h1{
+    float: right;
+    font-family: cursive;
+
+    margin: 30px 30px 0 60px;
+    font-size: 5.1em;
+    color: #E85A4F;
+}
+
+h5{
+    float:left;
+    font-family: sans-serif;
+    color: #8E8D8A;
+    margin: 250px 10px;
+    font-size: 19px;
+    background-color: #D8C3A5;
+}
+
+.map-responsive{
+
+    overflow:hidden;
+    padding-bottom:56.25%;
+    padding-top: 85%;
+    position:relative;
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+body{
+    background-color: #EAE7DC;
+}
