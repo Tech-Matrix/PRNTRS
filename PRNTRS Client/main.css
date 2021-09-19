@@ -58,11 +58,12 @@
 
 
 }
+/*
 .mappy{
     margin-left: 350px;
     margin-top: 60px;
 }
-
+*/
 ul {
     list-style-type: none;
     margin: 0;
@@ -93,39 +94,35 @@ ul {
 h1{
     float: right;
     font-family: cursive;
-
     margin: 30px 30px 0 60px;
     font-size: 5.1em;
-    color: #E85A4F;
+    color: grey;
 }
 
 h5{
     float:left;
     font-family: sans-serif;
     color: #8E8D8A;
-    margin: 250px 10px;
+    margin: 250px 100px;
     font-size: 19px;
     background-color: #D8C3A5;
 }
 
-.map-responsive{
-
-    overflow:hidden;
-    padding-bottom:56.25%;
-    padding-top: 85%;
-    position:relative;
-    height:0;
-
+.printer-emoji{
+    font-size: 6.5em;
+    margin: 30px 30px 0 60px;
+    float:left;
 }
 
-.map-responsive iframe{
+.maps iframe{
 
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
+    margin-left: -175px;
+    margin-top: 300px;
+    height:50%;
+    width:50%;
     position:absolute;
+
 }
 body{
-    background-color: #EAE7DC;
+    background: url(greynoise.jpeg) fixed;
 }
