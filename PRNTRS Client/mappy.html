@@ -1,19 +1,52 @@
 <!DOCTYPE html>
+<html>
+
 <head>
-        <title>CLIENT DASHBOARD</title>
-        <link href="main.css" rel="stylesheet">
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>Client Dashboard</title>
+    <link href="main.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
 </head>
+
 <body>
-    <ul>
-        <li><a href="main.html" class="header">PRNTRS</a></li> 
-      </ul>
-    <iframe class="mappy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.762823966524!2d77.53074011413536!3d12.98701601805536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3db8abd595b5%3A0x4e6a7eb2c70f3aa9!2sStationery%20Shop!5e0!3m2!1sen!2sin!4v1614437384007!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    <ul class="vendorlist">
-        <li><a class="texty">STATIONERY SHOP</a></li>
-        <li><a class="texty2"> <input type="text"  placeholder="Select Slot"><br></a></li>
-        <button type="button" class="Butty2">Upload File</button>
-      </ul>
+
+    <h1>PRNTRS</h1>
+    <p class="printer-emoji">🖨️</p>
+    <h5>Vendors near you:</h5>
+
+    <div class="maps">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31110.066983918394!2d77.59342248831015!3d12.923245501106484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8f188a94d323f05b!2sStationery%20Mart!5e0!3m2!1sen!2sin!4v1632046226256!5m2!1sen!2sin"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+    </div>
+    <div class="buttons">
+
+        <p style="font-family: monospace"><em>Please upload your file here :</em></p>
+        <input type="button" name="upload" value="Upload">
+
+    </div>
+
+    <div class="slotbooking">
+
+        <p><strong>Stationery Mart: </strong></p>
+        <p>Book your Slot</p>
+        <select class="slots" name="Select Slot">
+            <option value="">--Please choose a time--</option>
+            <option value="early">7.00AM</option>
+            <option value="morning">9.30AM</option>
+            <option value="noon">12.00PM</option>
+            <option value="afternoon">3.00PM</option>
+            <option value="evening">5.00PM</option>
+            <option value="twilight">8.00PM</option>
+            <option value="night">10.00PM</option>
+        </select>
+
+        <button type="submit" name="Confirm Slot Booking">Confirm</button>
+        <br><br><br><br><br><br>
+    </div>
 </body>
+
+
 </html>

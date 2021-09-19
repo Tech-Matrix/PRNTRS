@@ -101,9 +101,10 @@ h1{
 
 h5{
     float:left;
+
     font-family: sans-serif;
     color: #8E8D8A;
-    margin: 250px 100px;
+    margin: 200px 120px;
     font-size: 19px;
     background-color: #D8C3A5;
 }
@@ -121,6 +122,22 @@ h5{
     height:50%;
     width:50%;
     position:absolute;
+}
+
+.buttons{
+
+    top:820px;
+    left:-175px;
+    position: relative;
+
+}
+
+.slotbooking{
+
+    top: 820px;
+    left:-175px;
+    position: relative;
+
 
 }
 body{
