@@ -12,7 +12,7 @@ html, body
 .signin
 {
     color:#C74E48;
-    
+
     position: absolute;
 	width: 142px;
 	height: 24px;
@@ -94,7 +94,7 @@ img
   	position: absolute;
 	left: 15%;
 	top: 287px;
-	border-style: none; 
+	border-style: none;
 	font-size: 17px;
 }
 
@@ -143,34 +143,57 @@ img
   	font-size: 13px;
   	font-family: Comfortaa;
 }
-.mappy{
-    margin-left: 350px;
-    margin-top: 60px;
+
+
+h1{
+    float: right;
+    font-family: cursive;
+    margin: 30px 30px 0 60px;
+    font-size: 5.1em;
+    color: grey;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    margin:none ;
-    font-size: larger;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: teal;
-  }
-  .header{
-      margin-left: 600px;
-      color:red;
-  }
-  .vendorlist{
-      background-color: green;
-  }
-  .texty{
-      margin-left: 590px;
-  }
-  .texty2{
-    margin-left: 590px;
+h5{
+    float:left;
 
-  }
-  .Butty2{
-    margin-left: 610px;
-  }
+    font-family: sans-serif;
+    color: #8E8D8A;
+    margin: 200px 120px;
+    font-size: 19px;
+    background-color: #D8C3A5;
+}
+
+.printer-emoji{
+    font-size: 6.5em;
+    margin: 30px 30px 0 60px;
+    float:left;
+}
+
+.maps iframe{
+
+    margin-left: -175px;
+    margin-top: 300px;
+    height:50%;
+    width:50%;
+    position:absolute;
+}
+
+.buttons{
+
+    top:820px;
+    left:-175px;
+    position: relative;
+
+}
+
+.slotbooking{
+
+    top: 820px;
+    left:-175px;
+    position: relative;
+
+
+}
+.mappyfile{
+    background: url(greynoise.jpeg) fixed;
+}
