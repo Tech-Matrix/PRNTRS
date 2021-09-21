@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+html, body{
+  height: 100%;
+  font-family: Comfortaa;
+  color: #D84242;
+}
+
+#top{
+  text-align: center;
+  padding-top: 10px;
+  line-height: 10px;
+}
+
+
+#form{
+  padding-left:175px;
+  padding-top: 20px;
+}
+
+#sname{
+  width:40%;
+  height: 35px;
+  padding-top: 20px;
+  border-color:#D84242;
+  font-family: Comfortaa;
+  color: #D84242;
+}
+
+#loc{
+  width:40%;
+  height: 100px;
+  padding-top: 20px;
+  border-color:#D84242;
+  font-family: Comfortaa;
+  color: #D84242;
+}
+
+#dom{
+  width:40%;
+  height:35px;
+  padding-top: 20px;
+  border-color:#D84242;
+  font-family: Comfortaa;
+  color: #D84242;
+}
+
+#stime{
+  width:20%;
+  height: 35px;
+  padding-top: 20px;
+  border-color:#D84242;
+  font-family: Comfortaa;
+  color: #D84242;
+
+}
+
+#etime{
+  width:20%;
+  height: 35px;
+  padding-top: 20px;
+  border-color:#D84242;
+  font-family: Comfortaa;
+  color: #D84242;
+
+}
+
+
+
+
+img{
+      
+      position: absolute;
+      margin-left: 30%;
+      margin-top:7%;
+      margin-right:5%;
+      margin-bottom: 0%;
+      height: 535px;
+      top: 60px;
+      right: 20px;
+      max-width: 50%;
+  }
+
+
+.hello{
+  background: #D84242;
+  border-radius: 40px;
+  position: absolute;
+  width: 165px;
+  height: 47px;
+  left: 420px;
+  top: 595px;
+  border-style: none;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: normal;
+  cursor: pointer;
+ 
+}
