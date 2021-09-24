@@ -54,7 +54,7 @@ header .nav-head{
   justify-content: space-between;
 }
 
-.b{
+.details-button{
   border: 1px solid #D84242;
   padding: 8px;
   border-radius: 12px;
@@ -64,7 +64,7 @@ header .nav-head{
   cursor: pointer;
 }
 
-.b:active{
+.details-button:active{
   background-color: #D84242;
   color: white;
 }
@@ -99,9 +99,6 @@ header .nav-head{
     grid-row: 2 / 3;
   }
   .cancelled-list{
-    height: auto;
-    overflow-y: none;
-
     grid-column: 1 / 3;
     grid-row: 4 / 5;
   }
