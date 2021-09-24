@@ -32,20 +32,20 @@ app.post('/payment', function(req, res) {
     stripe.customers.create({
             email: req.body.stripeEmail,
             source: req.body.stripeToken,
-            name: 'Gourav Hammad',
+            name: 'PRNTRS',
             address: {
                 line1: 'TC 9/4 Old MES colony',
                 postal_code: '452331',
-                city: 'Indore',
-                state: 'Madhya Pradesh',
+                city: 'Bangalore',
+                state: 'Karnataka',
                 country: 'India',
             }
         })
         .then((customer) => {
 
             return stripe.charges.create({
-                amount: 2500, // Charing Rs 25
-                description: 'Web Development Product',
+                amount: 1000, // Charing Rs 25
+                description: 'Color Printout',
                 currency: 'INR',
                 customer: customer.id
             });
