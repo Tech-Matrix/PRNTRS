@@ -43,8 +43,12 @@
             <option value="night">10.00PM</option>
         </select>
 
-        <button type="submit" name="Confirm Slot Booking">Confirm</button>
-        <br><br><br><br><br><br>
+        <button type="submit" name="Confirm Slot Booking">Confirm</button><br>
+        Click Below to Make Payment
+        <form action="payment" method="POST">
+        <script src="//checkout.stripe.com/v2/checkout.js" class="stripe-button" data-key="<%= key %>" data-amount="1000" data-currency="inr" data-name="PRNTRS" data-description="Remote Printing Made Easy" data-locale="auto">
+        </script>
+    </form>
     </div>
 </body>
 
