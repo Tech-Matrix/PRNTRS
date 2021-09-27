@@ -1,3 +1,5 @@
+
+/*Routes Setup*/
 require("express-async-errors");
 require("dotenv").config();
 const express = require("express");
