@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.login-active{
+position: absolute;
+width: 142px;
+height: 24px;
+left: 97px;
+top: 32px;
+text-decoration: none;
+font-family: Comfortaa, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 40px;
+display: flex;
+align-items: center;
+letter-spacing: -0.015em;
+
+color: #D84242;
+}
+.register-active{
+  position: absolute;
+width: 142px;
+height: 30px;
+left: 437px;
+top: 28px;
+text-decoration: none;
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 40px;
+display: flex;
+align-items: center;
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+.welcome{
+  position: absolute;
+width: 411px;
+height: 82px;
+left: 237px;
+top: 120px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+.heading{
+  /* PRNTRS VENDOR */
+position: absolute;
+width: 376px;
+height: 66px;
+left: 187px;
+top: 177px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 38px;
+line-height: 47px;
+display: flex;
+align-items: center;
+letter-spacing: -0.015em;
+
+color: #D84242;
+
+}
+.inp-s-mail{
+  background-color: #FBF6F6;;
+  padding: 15px 40px 10px;
+  position: absolute;
+left: 15%;
+top: 287px;
+border-style: none; /* To get rid of default border line */
+font-size: 17px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #B9B1B1;
+  opacity: 1; /* Firefox */
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #B9B1B1;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #B9B1B1;
+}
+.inp-s-pass{
+  background-color: #FBF6F6;;
+  padding: 15px 40px 10px;
+  position: absolute;
+left: 15%;
+top: 372px;
+border-style: none; /* To get rid of default border line */
+font-size: 17px;
+}
+#forgot{
+  position: absolute;
+  top: 428px;
+  left: 16%;
+  text-decoration: none;
+  color: #3697CD;
+  font-size: 13px;
+  font-family: Comfortaa;
+}
+.sign-in{
+  background: #D84242;
+border-radius: 10px;
+position: absolute;
+width: 165px;
+height: 47px;
+left: 262px;
+top: 520px;
+border-style: none;
+color: white;
+font-size: 20px;
+letter-spacing: 2px;
+font-weight: normal;
+cursor: pointer;
+}
+.sign-up{
+  position: absolute;
+  top: 580px;
+  left: 272px;
+  text-decoration: none;
+  color: #3697CD;
+  font-size: 13px;
+  font-family: Comfortaa;
+}
+.register-content{
+  display:none;
+}
+
+img{
+  padding: 0;
+    display: grid;
+    position: absolute;
+    margin-left: 50%;
+    margin-bottom: 0;
+    margin-right: auto;
+    height: 545px;
+    top: 60px;
+    right: 20px;
+    max-width: 50%;
+}
