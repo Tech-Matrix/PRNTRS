@@ -14,8 +14,11 @@ const port = process.env.PORT || 3000
 
 app.use(bodyparser.urlencoded({ extended: false }))
 app.use(bodyparser.json())
-app.use(express.static('public/css'));
-app.use(express.static('images/css'));
+// <<<<<<< payment-gateway-frontend
+// app.use(express.static('public/css'));
+// app.use(express.static('images/css'));
+// =======
+// >>>>>>> main
 
 // View Engine Setup
 app.set('views', path.join(__dirname, 'views'))
