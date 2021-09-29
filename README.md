@@ -180,8 +180,6 @@ Fork this repository by clicking on the fork button on the top of this page. Thi
    ![image](https://user-images.githubusercontent.com/73497800/132095402-2a33defe-072f-45b0-92ea-e2c50f45a2e4.png) <br /><br />
    Go to your forked repository on GitHub and click on the `Compare & pull request` button. <br />
 
-   ![image](https://user-images.githubusercontent.com/73497800/132095416-d35a7fe7-6a55-47b4-8712-435fbc4b6410.png) <br /><br />
-   
    Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/PRNTRS` and head repository is  `<your-username>/PRNTRS` <br/><br />
    
    ![image](https://user-images.githubusercontent.com/73497800/132095867-d9f28b23-f63b-429b-a352-3cf0d20a7214.png)
