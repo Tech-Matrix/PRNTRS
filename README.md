@@ -58,3 +58,80 @@ PRNTRS is a web application which sends a document from customer to vendor by ad
   <summary><strong>▶ Viewing the design files of the website:</strong></summary>   
   <p>To view the .fig webpage design files, simply download the .fig file and import into Figma!</p>
 </details>
+
+<details>
+  <summary><strong>👩‍💻How to Contribute?</strong></summary>
+
+#### 1. Fork this repository
+Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+     
+#### 2. Clone the repository
+   
+   Now clone the **forked repository** to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon to copy the url of the repo. <br />
+
+   Open your terminal and run the following git command:<br />
+   ```
+   git clone <url you just copied>
+   ```
+
+   For example: <br/>
+   ```
+   git clone https://github.com/vedanthv/PRNTRS/
+   ```
+    
+   Remember to clone **your forked repository** , not the original one.
+    
+   #### 3. Create a branch
+   
+   Change to the repository directory on your computer (if you are not already there):<br />
+   ```
+   cd PRNTRS
+   ```
+   
+   Now create a branch using the git checkout command: <br />
+   ```
+   git checkout -b your-new-branch-name
+   ```
+   
+   For example:
+   ```
+   git checkout -b new-feature
+   ```
+  
+   #### 4. Add the code
+   
+   #### 5. Commit your changes
+
+   If you go to the project directory and execute the command `git status` in the terminal, you'll see there are changes. <br />
+   Add the changed files to the branch you just created using the `git add` command: <br />
+   ```
+   git add <file name>
+   ```
+
+   Now commit those changes using the git commit command:
+   ```
+   git commit -m "your message"
+   ```
+  
+   #### 6. Push your changes to GitHub
+   
+   Push your changes using the command `git push`:
+   ```
+   git push origin <add-your-branch-name>
+   ```
+   For example:
+   ```
+   git push origin new-feature
+   ```
+   
+   #### 7. Submit your Pull request for review
+   
+   ![image](https://user-images.githubusercontent.com/73497800/132095402-2a33defe-072f-45b0-92ea-e2c50f45a2e4.png) <br /><br />
+   Go to your forked repository on GitHub and click on the `Compare & pull request` button. <br />
+
+   ![image](https://user-images.githubusercontent.com/73497800/132095416-d35a7fe7-6a55-47b4-8712-435fbc4b6410.png) <br /><br />
+   
+   Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/PRNTRS` and head repository is  `<your-username>/PRNTRS` <br/><br />
+   
+   ![image](https://user-images.githubusercontent.com/73497800/132095867-d9f28b23-f63b-429b-a352-3cf0d20a7214.png)
+
