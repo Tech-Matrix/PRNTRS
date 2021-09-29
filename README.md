@@ -1,11 +1,16 @@
-# PRNTRS
-A web-app, which sends a document from customer to vendor by adding print slots thereby eliminating long wait times, inefficiency and improving the safety of the customers involved.
+# 🖨 PRNTRS - Remote Printing Made Easy!
 
-#### video: https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view
+PRNTRS is a web application which sends a document from customer to vendor by adding print slots and direct remote communication with the vendor thereby **eliminating long wait times**, **inefficiency and improving the safety of the customers** involved.
 
-#### medium blog: https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc
+[**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view)
 
+[**Medium Blog**](https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc)
 
+### ▶ Tech Stack
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+<br />
+
+### ▶ Salient Preview of the Application
 #### Home Page
 ![Screenshot (203)](https://user-images.githubusercontent.com/73497800/129594127-daad5599-c13a-4d14-a9c5-a7a2e7ca7705.png)
 
@@ -30,7 +35,5 @@ A web-app, which sends a document from customer to vendor by adding print slots 
 To view the .fig webpage design files, simply download the .fig file and import into Figma!
 <br />
 
-### Our Current Tech Stack
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<br />
+
 #### Made with 💙 by Team 6 : Icebreakers - 3 Edition
