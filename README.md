@@ -60,6 +60,23 @@ PRNTRS is a web application which sends a document from customer to vendor by ad
 </details>
 
 <details>
+  <summary><strong>👩‍💻Anyone can Contribute!🤝</strong></summary>
+  
+  We want to make contributing to this project as easy and as transparent as possible, whether it's:
+
+Reporting a bug 🐛
+
+Submitting a fix 🔎
+
+Proposing new features 💡
+
+If you wish to contribute to this project, please raise an issue and wait for the project maintainers to approve it or give feedback before making a change.
+
+This documentation contains a set of guidelines to help you during the contribution process. We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project.
+  
+</details>
+ 
+<details>
   <summary><strong>👩‍💻How to Contribute?</strong></summary>
 
 #### 1. Fork this repository
