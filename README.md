@@ -1,17 +1,33 @@
-# 🖨 PRNTRS - Remote Printing Made Easy!
+# 🖨 PRNTRS — An endeavour to connect, simplify and transform
 
+<details>
+  <summary> <strong>🏹The Motive</strong> </summary>
+  <br>
 PRNTRS is a web application which sends a document from customer to vendor by adding print slots and direct remote communication with the vendor thereby **eliminating long wait times**, **inefficiency and improving the safety of the customers** involved.
 
-[**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view) | [**Medium Blog**](https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc)
+With the large influx of the rural and semi-urban population to sprawling metropolitan cities in the hopes of making their once-impossible aspirations a reality, comes the equally daunting challenge of connecting these tens of millions of Indians to the technology they deserve, but can’t dream to afford.
+It has become increasingly clear over the past few decades that the gap between the urban affluent and the less-fortunate is ever-widening, and doesn’t look to be ceasing in the near future.
+
+PRNTRS aims to simplify this process for working individuals, students and all those in between.
+The onslaught of the Covid-19 pandemic has led to the world being hit with the novel concept of social distancing — a practice that both protects and frustrates. This has made long wait times even longer and more disorganized than ever.
+
+This begs the question of how we can strive to make document uploading and printing a safer, faster and more convenient process for everyone — vendors and customers alike.
+
+We looked to solve this predicament with PRNTRS by connecting the ubiquitous XEROX and Printing shops found across the city making it accessible to the user with a single click! What’s more, using the scheduling feature of our web-app, customers can now book their slots in advance from the shop of their choice — All from the comfort of their homes.
+  
+Watch a [**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view) of the first version here!
+</details>
+
 <details>
-<summary><strong> ▶ Tech Stack</strong></summary>
+<summary><strong> 📌 Tech Stack</strong></summary>
+  <br>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 <br />
 </details>
 
 <details>
-  <summary><strong>▶ Preview of the Application</strong></summary>
+  <summary><strong>🙈 A sneek peek into what we have here</strong></summary>
 <br>
 
 #### Home Page
@@ -55,13 +71,14 @@ PRNTRS is a web application which sends a document from customer to vendor by ad
 </details>
 
 <details>
-  <summary><strong>▶ Viewing the design files of the website:</strong></summary>   
+  <summary><strong>👀 Viewing the design files of the website</strong></summary>   
+  <br>
   <p>To view the .fig webpage design files, simply download the .fig file and import into Figma!</p>
 </details>
 
 <details>
-  <summary><strong>👩‍💻Anyone can Contribute!🤝</strong></summary>
-  
+  <summary><strong>🤝Anyone can Contribute!</strong></summary>
+  <br>
   We want to make contributing to this project as easy and as transparent as possible, whether it's:
 
 Reporting a bug 🐛
@@ -77,7 +94,7 @@ This documentation contains a set of guidelines to help you during the contribut
 </details>
  
 <details>
-  <summary><strong>👩‍💻How to Contribute?</strong></summary>
+  <summary><strong>⁉ How to Contribute?</strong></summary>
 
 #### 1. Fork this repository
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
