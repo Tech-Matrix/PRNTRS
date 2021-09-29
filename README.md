@@ -1,5 +1,5 @@
 # PRNTRS
-### **PRNTRS** - A web-app, which sends a document from customer to vendor by adding print slots thereby eliminating long wait times, inefficiency and improving the safety of the customers involved.
+A web-app, which sends a document from customer to vendor by adding print slots thereby eliminating long wait times, inefficiency and improving the safety of the customers involved.
 
 #### video: https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view
 
