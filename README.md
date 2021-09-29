@@ -1,5 +1,22 @@
 # 🖨 PRNTRS — An endeavour to connect, simplify and transform
 
+<div align="center">
+
+<a href="https://github.com/Tech-Matrix/PRNTRS/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="#"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
+
+<a href="https://github.com/Tech-Matrix/PRNTRS/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tech-Matrix/PRNTRS?color=brightgreen"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/stargazers"><img src="https://img.shields.io/github/stars/Tech-Matrix/PRNTRS?color=0059b3"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/network/members"><img src="https://img.shields.io/github/forks/Tech-Matrix/PRNTRS?color=yellow"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/issues"><img src="https://img.shields.io/github/issues/Tech-Matrix/PRNTRS?color=0059b3"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Tech-Matrix/PRNTRS?color=yellow"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/pulls"><img src="https://img.shields.io/github/issues-pr/Tech-Matrix/PRNTRS?color=brightgreen"></a>
+<a href="https://github.com/Tech-Matrix/PRNTRS/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Tech-Matrix/PRNTRS?color=0059b3"></a>
+
+</div>
 <details>
   <summary> <strong>🏹The Motive</strong> </summary>
   <br>
@@ -168,4 +185,10 @@ Fork this repository by clicking on the fork button on the top of this page. Thi
    Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/PRNTRS` and head repository is  `<your-username>/PRNTRS` <br/><br />
    
    ![image](https://user-images.githubusercontent.com/73497800/132095867-d9f28b23-f63b-429b-a352-3cf0d20a7214.png)
-
+  </details>
+  
+ ## Valuable Contributors 💻🦹‍♂️ :
+  
+<a href="https://github.com/Tech-Matrix/PRNTRS/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Tech-Matrix/PRNTRS" />
+</a>
