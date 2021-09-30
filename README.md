@@ -1,5 +1,7 @@
 # 🖨 PRNTRS — An endeavour to connect, simplify and transform
 
+<img src = "https://user-images.githubusercontent.com/44313631/135446151-d43f41b7-c99c-467e-a77e-77ad8151f3db.png" alt = "PRNTRS Banner"/>
+
 <div align="center">
 
 <a href="https://github.com/Tech-Matrix/PRNTRS/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
