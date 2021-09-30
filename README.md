@@ -20,20 +20,15 @@
 <details>
   <summary> <strong>🏹The Motive</strong> </summary>
   <br>
-PRNTRS is a web application which sends a document from customer to vendor by adding print slots and direct remote communication with the vendor thereby **eliminating long wait times**, **inefficiency and improving the safety of the customers** involved.
+PRNTRS is a web application which sends a document from customer to vendor by adding print slots and direct remote communication with the vendor thereby <b>eliminating long wait times</b>, <b>inefficiency and improving the safety of the customers</b> involved.<br><br>
 
-With the large influx of the rural and semi-urban population to sprawling metropolitan cities in the hopes of making their once-impossible aspirations a reality, comes the equally daunting challenge of connecting these tens of millions of Indians to the technology they deserve, but can’t dream to afford.
+With the **large influx of the rural and semi-urban population to sprawling metropolitan cities** in the hopes of making their once-impossible aspirations a reality, comes the equally daunting challenge of connecting these tens of millions of Indians to the technology they deserve, but can’t dream to afford.<br><br>
+
 It has become increasingly clear over the past few decades that the gap between the urban affluent and the less-fortunate is ever-widening, and doesn’t look to be ceasing in the near future.
 
-PRNTRS aims to simplify this process for working individuals, students and all those in between.
-The onslaught of the Covid-19 pandemic has led to the world being hit with the novel concept of social distancing — a practice that both protects and frustrates. This has made long wait times even longer and more disorganized than ever.
-
-This begs the question of how we can strive to make document uploading and printing a safer, faster and more convenient process for everyone — vendors and customers alike.
-
-We looked to solve this predicament with PRNTRS by connecting the ubiquitous XEROX and Printing shops found across the city making it accessible to the user with a single click! What’s more, using the scheduling feature of our web-app, customers can now book their slots in advance from the shop of their choice — All from the comfort of their homes.
-  
-Watch a [**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view) of the first version here!
-[**Medium Blog**]("https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc")
+**PRNTRS aims to simplify this process for working individuals, students and all those in between.**<br><br>
+Read more about motive behind PRNTRS this [**here**](https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc)<br><br>
+ Watch a [**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view) of the first version here!
 </details>
 
 <details>
