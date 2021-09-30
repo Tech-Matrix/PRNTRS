@@ -33,6 +33,7 @@ This begs the question of how we can strive to make document uploading and print
 We looked to solve this predicament with PRNTRS by connecting the ubiquitous XEROX and Printing shops found across the city making it accessible to the user with a single click! What’s more, using the scheduling feature of our web-app, customers can now book their slots in advance from the shop of their choice — All from the comfort of their homes.
   
 Watch a [**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTbPXwHtcCQ1s/view) of the first version here!
+[**Medium Blog**]("https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc")
 </details>
 
 <details>
