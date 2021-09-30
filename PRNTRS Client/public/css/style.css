@@ -1,0 +1,115 @@
+    body {
+        background-color: #9d83eb;
+    }
+    
+    .main-div {
+        width: 1050px;
+        height: 550px;
+        background-color: #cec8ef;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 10px;
+    }
+    
+    button:hover {
+        background-color: #FF00FF;
+    }
+    
+    .sub-div {
+        width: 1000px;
+        height: 500px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    
+    .rounded-corners {
+        border-radius: 40px 40px 40px 40px;
+        background: rgb(255, 255, 255);
+        padding: 20px;
+    }
+    
+    .sub-div-font {
+        font-family: 'Kaushan Script', cursive, sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    
+    .desc-content {
+        position: absolute;
+        bottom: 100;
+        left: 100;
+        padding-left: 170px;
+        margin-left: 3em;
+        padding-bottom: 10px;
+        font-family: 'Kaushan Script', cursive, sans-serif;
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .sub-div-content {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        padding: 40px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .sub-div-btn {
+        position: absolute;
+        bottom: 0px;
+        left: 200px;
+        border-radius: 20px;
+        padding: 10px;
+        background-color: #8a2be2;
+        color: white;
+        font-size: 16px;
+        border: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    
+    .sub-div-btn:hover {
+        background-color: #FF00FF;
+    }
+    
+    button:nth-of-type(2) {
+        position: absolute;
+        bottom: 0px;
+        left: 550px;
+        border-radius: 20px;
+        padding: 10px;
+        background-color: #8a2be2;
+        color: white;
+        font-size: 16px;
+        border: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        width: 500px;
+        margin-bottom: 15px;
+    }
+    
+    button:hover {
+        cursor: pointer;
+    }

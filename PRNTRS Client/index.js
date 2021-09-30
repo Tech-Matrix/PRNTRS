@@ -14,13 +14,18 @@ const port = process.env.PORT || 3000
 
 app.use(bodyparser.urlencoded({ extended: false }))
 app.use(bodyparser.json())
+// <<<<<<< payment-gateway-frontend
+// app.use(express.static('public/css'));
+// app.use(express.static('images/css'));
+// =======
+// >>>>>>> main
 
 // View Engine Setup
 app.set('views', path.join(__dirname, 'views'))
 app.set('view engine', 'ejs')
 
 app.get('/', function(req, res) {
-    res.render('test', {
+    res.render('mappy', {
         key: Publishable_Key
     })
 })
@@ -44,8 +49,8 @@ app.post('/payment', function(req, res) {
         .then((customer) => {
 
             return stripe.charges.create({
-                amount: 1000, // Charing Rs 25
-                description: 'Color Printout',
+                amount: 1000, // Charing Rs 10
+                description: 'Colour Printout',
                 currency: 'INR',
                 customer: customer.id
             });
